@@ -1,6 +1,6 @@
-![ViewCount](https://views.whatilearened.today/views/github/DanielBarnes18/IBM-Data-Science-Professional-Certification.svg?cache=remove)
-![GitHub top language](https://img.shields.io/github/languages/top/DanielBarnes18/IBM-Data-Science-Professional-Certificate?style=flat)
-![GitHub language count](https://img.shields.io/github/languages/count/DanielBarnes18/IBM-Data-Science-Professional-Certificate?style=flat)
+![ViewCount](https://views.whatilearened.today/views/github/Elfirasi/IBM-Data-Science-Professional-Certification.svg?cache=remove)
+![GitHub top language](https://img.shields.io/github/languages/top/Elfirasi/IBM-Data-Science-Professional-Certificate?style=flat)
+![GitHub language count](https://img.shields.io/github/languages/count/Elfirasi/IBM-Data-Science-Professional-Certificate?style=flat)
 
 [![Header](https://user-images.githubusercontent.com/84391594/152703941-8c1b3e93-7358-4274-8c7d-b152d3132814.png)](https://www.coursera.org/professional-certificates/ibm-data-science)
 
@@ -48,13 +48,13 @@ The following Python libraries were used throughout the certification: <br>
 </p>
 
 ## 📂 Projects
-- [Extracting and Visualizing Stock Data](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/blob/main/05.%20Python%20Project%20for%20Data%20Science/Final%20Assignment.ipynb)
-- [Chicago Census, Crime, and School Data Analysis using SQL](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/blob/main/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/05.%20Course%20Assignment/)
-- [House Price Predictions](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Final%20Assignment%20-%20House%20Price%20Predictions.ipynb)
-- [US Domestic Airline Flights Performance Dashboard](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/tree/main/08.%20Data%20Visualization%20with%20Python/Final%20Assignment)
-- [Best Classifier Model](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/blob/main/09.%20Machine%20Learning%20with%20Python/Final%20Project/Machine%20Learning%20with%20Python%20-%20The%20Best%20Classifier.ipynb)
-- [Predicting Successful Rocket Landings](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/tree/main/10.%20Applied%20Data%20Science%20Capstone)
-- [Dashboard and Interactive Map](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/tree/main/10.%20Applied%20Data%20Science%20Capstone/04.%20Interactive%20Visual%20Analytics)
+- [Extracting and Visualizing Stock Data](https://github.com/Elfirasi/IBM-Data-Science-Professional-Certificate/blob/main/05.%20Python%20Project%20for%20Data%20Science/Final%20Assignment.ipynb)
+- [Chicago Census, Crime, and School Data Analysis using SQL](https://github.com/Elfirasi/IBM-Data-Science-Professional-Certificate/blob/main/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/05.%20Course%20Assignment/)
+- [House Price Predictions](https://github.com/Elfirasi/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Final%20Assignment%20-%20House%20Price%20Predictions.ipynb)
+- [US Domestic Airline Flights Performance Dashboard](https://github.com/Elfirasi/IBM-Data-Science-Professional-Certificate/tree/main/08.%20Data%20Visualization%20with%20Python/Final%20Assignment)
+- [Best Classifier Model](https://github.com/Elfirasi/IBM-Data-Science-Professional-Certificate/blob/main/09.%20Machine%20Learning%20with%20Python/Final%20Project/Machine%20Learning%20with%20Python%20-%20The%20Best%20Classifier.ipynb)
+- [Predicting Successful Rocket Landings](https://github.com/Elfirasi/IBM-Data-Science-Professional-Certificate/tree/main/10.%20Applied%20Data%20Science%20Capstone)
+- [Dashboard and Interactive Map](https://github.com/Elfirasi/IBM-Data-Science-Professional-Certificate/tree/main/10.%20Applied%20Data%20Science%20Capstone/04.%20Interactive%20Visual%20Analytics)
 
 
 ## 🏆 Certificates 
