@@ -61,7 +61,7 @@ The following Python libraries were used throughout the certification: <br>
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href="https://coursera.org/share/739cc5d0a418cedeef9b39009958e983">![IBM data science](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~DNN4LHUHKPWF/CERTIFICATE_LANDING_PAGE~DNN4LHUHKPWF.jpeg)</a>
+  <a href="https://coursera.org/share/739cc5d0a418cedeef9b39009958e983"> ![IBM data science](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~DNN4LHUHKPWF/CERTIFICATE_LANDING_PAGE~DNN4LHUHKPWF.jpeg) </a>
 </p>
 
 
