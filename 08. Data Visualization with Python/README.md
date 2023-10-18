@@ -21,6 +21,5 @@ This course teaches how to present and visualize complex data in a manner that m
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href="https://coursera.org/share/ae7160d62cf9ef6c1860bedf0cf23438"><img src="https://user-images.githubusercontent.com/84391594/152701650-3c73b517-a6ea-4926-aafb-851e45543d90.png" height="430"></a>
-  <a href="https://www.credly.com/badges/8734f812-1919-45e8-8ce4-d3df9ad6ef4c/public_url"><img src="https://user-images.githubusercontent.com/84391594/152701606-b83fee28-12d1-4fe4-9618-d552f8adcb11.png" height="430"></a>
+  <a href="https://coursera.org/share/739cc5d0a418cedeef9b39009958e983"> <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~DNN4LHUHKPWF/CERTIFICATE_LANDING_PAGE~DNN4LHUHKPWF.jpeg"/> </a>
 </p>
